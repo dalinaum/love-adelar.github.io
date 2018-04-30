@@ -1,21 +1,26 @@
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: Adela Inside
 subtitle: Adela's Dev Blog
-#description: >- # this means to ignore newlines until "baseurl:"
-#  This is the demo site for a Jekyll theme version of
-#  HTML5 UP's sleek, responsive site template Prologue.
+url: "https://love-adelar.github.io" # the base hostname & protocol for your site
+baseurl: ''
+description: >
+    아델라 인사이드
+
+#  Author Information
 author: ADELA
 email: love.adelar@gmail.com
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
-#baseurl: "/jekyll-theme-prologue" # the subpath of your site, e.g. /blog
-baseurl: ''
-url: "https://love-adelar.github.io" # the base hostname & protocol for your site
+
+#Build settings
+permalink: /blog/:year/:month/:day/:title/
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 
 # Social settings
 facebook_url:
@@ -26,7 +31,10 @@ twitter_url: twitter.com/love_ade1a
 
 # Google Analytics Tracking ID goes here:
 google_analytics:
+  ua:
 
 # The following settings are NECESSARY for the Prologue theme to run:
 theme: jekyll-theme-prologue
 collections: [sections]
+
+timezone: "Asia/Seoul"
