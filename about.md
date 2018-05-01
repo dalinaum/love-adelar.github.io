@@ -1,30 +1,27 @@
 ---
 layout: page
-title: About
+title: About Adela
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Interested in building a variety of systems for people. I want to provide services that can be used easily by granting high accessibility to the system.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## Tech Stack
 
-There are currently two themes built on Poole:
+* Language : Python, Java 
+* Server Frame Work : Flask, Spring
+* DB : SQL
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+## Profile
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+* Name : Jeong Ji Yun , Adela 
+* Github : https://github.com/love-adelar
+* Email : love.adelar@gmail.com
+* Medium : https://medium.com/@
 
-## Setup
+## Education
 
-Some fun facts about the setup of this project include:
+* Computer Software Dept. @Sungshin women's 
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+## Project
