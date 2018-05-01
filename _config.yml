@@ -17,7 +17,7 @@ sass:
   style: compressed
   sass_dir: _scss    
 paginate: 5
-paginate_path: '/blog/page:num'
+paginate_path: '/category/page:num'
 permalink: pretty
 
 version: 1.0.0
@@ -37,20 +37,20 @@ author:
 nav:
   Home:           
     - '/'
-  Blog:           
-    - '/blog/'
-    - { Categories: '/blog/categories/' }
-    - { Tags: '/blog/tags/' }
-    - { TIL: '/blog/til/' }
+  Category:           
+    - '/category/'
+    - { Python: '/category/python/' }
+    - { Tags: '/category/tags/' }
+    - { TIL: '/category/til/' }
   About:          
     - '/about/'
   Github Project: 
     - 'http://love-adelar.github.io/'
 
 # Where are tags and categories displayed
-tag_page: '/blog/tags/'
-category_page: '/blog/categories/'
-til_page: '/blog/til/'
+python_page: '/category/python'
+tag_page: '/category/tags/'
+til_page: '/category/til/'
 
 hero:
   image: /public/img/jeju_profile.jpg
