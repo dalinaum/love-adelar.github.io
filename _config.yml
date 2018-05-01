@@ -25,7 +25,7 @@ version: 1.0.0
 # About/contact
 author:
   name: ADELA
-  description: A passionate <strong>developer and researcher</strong>, learning to be a giant.
+  description: <strong>ADELA</strong>, </br> Loves Art of Programming
   gravatar: 2c87a3ffdb44740984a28ce6dc23e870 # md5 hash of your email address
   contact:
     linkedin:  
@@ -41,6 +41,7 @@ nav:
     - '/blog/'
     - { Categories: '/blog/categories/' }
     - { Tags: '/blog/tags/' }
+    - { TIL: '/blog/til/' }
   About:          
     - '/about/'
   Github Project: 
@@ -49,6 +50,7 @@ nav:
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
+til_page: '/blog/til/'
 
 hero:
   image: /public/img/jeju_profile.jpg
