@@ -1,40 +1,61 @@
-# Site settings
+# Site Info
 title: Adela Inside
-subtitle: Adela's Dev Blog
-url: "https://love-adelar.github.io" # the base hostname & protocol for your site
+tagline: 'Adela Inside'
+description: 'Dev Blog for Adela'
 baseurl: ''
-description: >
-    아델라 인사이드
+url: "https://love-adelar.github.io"
+logo: '/public/logo.png'
 
-#  Author Information
-author: ADELA
-email: love.adelar@gmail.com
-avatar: assets/images/avatar.jpg
-
-# You'll want to customize url and baseurl for your own site:
-
-#Build settings
-permalink: /blog/:year/:month/:day/:title/
-
+# Site configurations
+gems:
+  - jekyll-paginate
 markdown: kramdown
-highlighter: rouge
 kramdown:
   input: GFM
-  syntax_highlighter: rouge
+excerpt_separator: "<!-- more -->"
+sass:
+  style: compressed
+  sass_dir: _scss    
+paginate: 5
+paginate_path: '/blog/page:num'
+permalink: pretty
 
-# Social settings
-facebook_url:
-github_url: github.com/love-adelar
-instagram_url: instagram.com/pro_adela
-linkedin_url:
-twitter_url: twitter.com/love_ade1a
+version: 1.0.0
 
-# Google Analytics Tracking ID goes here:
-google_analytics:
-  ua:
+# About/contact
+author:
+  name: ADELA
+  description: A passionate <strong>developer and researcher</strong>, learning to be a giant.
+  gravatar: 2c87a3ffdb44740984a28ce6dc23e870 # md5 hash of your email address
+  contact:
+    linkedin:  
+    github:    https://github.com/love-adelar
+    facebook:  https://www.facebook.com/jeong.adela.7
+    twitter:   https://twitter.com/love_ade1a
+    email:     love.adelar@gmail.com
+# Navigation (2nd level links supported)
+nav:
+  Home:           
+    - '/'
+  Blog:           
+    - '/blog/'
+    - { Categories: '/blog/categories/' }
+    - { Tags: '/blog/tags/' }
+  About:          
+    - '/about/'
+  Github Project: 
+    - 'http://love-adelar.github.io/'
 
-# The following settings are NECESSARY for the Prologue theme to run:
-theme: jekyll-theme-prologue
-collections: [sections]
+# Where are tags and categories displayed
+tag_page: '/blog/tags/'
+category_page: '/blog/categories/'
 
-timezone: "Asia/Seoul"
+hero:
+  image: /public/img/jeju_profile.jpg
+  caption: Original Artwork &copy; <a href="http://yalestewart.deviantart.com/art/We-Will-Be-Giants-370176475">Yale Stewart</a>
+
+# Puglins
+mathjax: true # whether support mathjax
+google_analytics_token: # leave blank if you don't want google analytics
+disqus_short_name: 'your_short_name' # leave blank if you don't want disqus
+
