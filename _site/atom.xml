@@ -4,7 +4,7 @@
  <title>Adela Inside</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-05-01T17:44:04+09:00</updated>
+ <updated>2018-05-01T22:25:22+09:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>ADELA</name>
@@ -18,6 +18,37 @@
    <updated>2018-05-01T00:00:00+09:00</updated>
    <id>http://localhost:4000/2018/05/01/may-day</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/public/img/virgin-mary.jpg&quot; alt=&quot;Virgin Mary&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Trumpet Creeper</title>
+   <link href="http://localhost:4000/2016/07/03/trumpet-creeper/"/>
+   <updated>2016-07-03T00:00:00+09:00</updated>
+   <id>http://localhost:4000/2016/07/03/trumpet-creeper</id>
+   <content type="html">&lt;p&gt;내가 기억하는 것이 정확하다면 엄마는 이 꽃이 30대를 보여주는 것 같다고 했다. 너도 그 때가 되면 이해할 거라고. 꽃을 좋아하는 나지만 왠지모를 거부감에 미루고 미루다 학교 앞에 잔뜩 핀 능소화를 찍어보았다.&lt;/p&gt;
+
+&lt;p&gt;엄마의 30대는 대단했다. 그가 육아휴직을 한 사이 직장에는 전산시스템이 도입돼, 컴퓨터를 사용하지 못한다면 복직이 어려울 상황이었다. 어린 막내가 엄마 등에 업혀서 빽빽 울어재껴도 눈은 흔들리지 않고 모니터에 고정한 채 타자연습을 했다. 50타, 100타, 200타, 250타, 300타. 정확히 1달이었다. 복직을 하고나서도 어머니는 우리 딸들을 예전처럼 키우려 노력하셨다. 양말의 발목 부분 고무줄이 늘어나 새끼 발가락까지 타고 내려갈 때까지 꿰매 신으시면서.&lt;/p&gt;
+
+&lt;p&gt;사람들은 저 능소화를 자꾸 찍어서 올린다. 툭 건들기만 하면 떨어지는 모습이 슬프지만 좋다고.&lt;/p&gt;
+
+&lt;p&gt;하지만 나는 저 꽃이 끔찍하게 싫다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/img/trumpet-creeper.jpg&quot; alt=&quot;Trumpet-Creeper&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Someday</title>
+   <link href="http://localhost:4000/2016/05/28/someday/"/>
+   <updated>2016-05-28T00:00:00+09:00</updated>
+   <id>http://localhost:4000/2016/05/28/someday</id>
+   <content type="html">&lt;p&gt;어떤 하루가 지나간다. 누군갈 사무치게 그리워할 줄 알아서 정말 다행인 하루.&lt;/p&gt;
+
+&lt;p&gt;다정한 남자와 결혼해야겠다. 매주 금요일 밤 빨간 장미꽃과 안개꽃을 사다주는 사람이 아니더라도, 붉은 꽃 한송이처럼 따뜻하고 다정한 사람과 살고 싶다. 해주겠다는 말보다, 해주는 몸 위에 걸친 옷자락이 움직이는 소리를 들려주는 사람과 살고 싶다. 말하지 않아도 마음의 소리가 통했으면 더욱 좋을 것이다. 신발끈을 묶으려 자세를 낮추기만 해도 내 손에 들고 있던 종이봉투를 들어주는 사람처럼.
+웃음 소리가 목소리에서 가득한 사람과 살 것이다. 개그 욕심이 많은 사람은 더욱 좋을 것 같다. 집에서 웃음이 끊기지 않는 가정을 만들고 싶다. 음악을 좋아하는 사람과 살고 싶다. 아침에 트는 노래, 점심에 듣는 노래, 저녁에 듣는 노래에 맞춰 몸을 흔들 줄 아는 사람이면 더욱 듬뿍 사랑해버릴 것만 같다. 눈에서 꿀을 떨어뜨리진 못해도 빛나는 눈동자에 내 볼살을 가득 담아버리는 사람을 매일 저녁에 보았으면 좋겠다.&lt;/p&gt;
+
+&lt;p&gt;마음으로 그리기만 해도 저 멀리 있을 사람이 너무 보고싶어지는 저녁이다.&lt;/p&gt;
 </content>
  </entry>
  
