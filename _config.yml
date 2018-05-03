@@ -17,7 +17,7 @@ sass:
   style: compressed
   sass_dir: _scss    
 paginate: 5
-paginate_path: '/category/page:num'
+paginate_path: '/blog/page:num'
 permalink: pretty
 
 version: 1.0.0
@@ -36,25 +36,27 @@ author:
 # Navigation (2nd level links supported)
 nav:
   Home:           
-    - '/'
-  Category:           
-    - '/category/'
-    - { Python: '/category/python/' }
-    - { Tags: '/category/tags/' }
-    - { TIL: '/category/til/' }
-    - { Inside: '/category/inside/' }
+    - '/blog/'
+  Categories:
+    - '/'           
+    - { Computer Science: '/blog/categories/#cs' }
+    - { Algorithm: '/blog/categories/#algorithm' }
+    - { Python: '/blog/categories/#python/' }
+    - { Flask: 'blog/categories/#Flask' }
+    - { Tags: '/blog/categories/#tags/' }
+    - { Inside: '/blog/categories/#Inside/' }
+    - { TIL: '/blog/categories/#til/' } 
   About:          
     - '/about/'
   Github Project: 
     - 'http://love-adelar.github.io/'
 
 # Where are tags and categories displayed
-python_page: '/category/python'
-tag_page: '/category/tags/'
-til_page: '/category/til/'
+tag_page: '/blog/tags/'
+categories_page: '/blog/categories/'
 
 hero:
-  image: /public/img/jeju_profile.jpg
+  image: /public/banner_img/profile.jpg
   caption: Adela
 
 # Puglins
