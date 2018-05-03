@@ -2,7 +2,7 @@
 layout: page
 title: Example content
 category: TIL
-tags: [test, jekyll]
+tags: [test]
 ---
 
 
