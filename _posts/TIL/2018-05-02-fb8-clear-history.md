@@ -6,7 +6,7 @@ tags: [translation]
 ---
 
 <div class="message">
-해당 포스팅은 2018년 5월 1일에 작성된, Facebook Clear History에 관한 Mark Juckerberg의 공식 입장글을 번역한 글입니다.  
+해당 포스팅은 2018년 5월 1일에 작성된, Facebook Clear History에 관한 Mark Zuckerberg의 공식 입장글을 번역한 글입니다.  
 </div>
 
 오늘 F8 컨퍼런스에서 우리는 "Clear History"라는 새로운 개인 정보 보호 정책에 대해 논의 할 것입니다.
