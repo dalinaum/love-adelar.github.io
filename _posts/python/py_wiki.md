@@ -5,15 +5,11 @@ category: python
 tags: [python], [wiki]
 ---
 
-
-<div class="message">
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
-</div>
-
 Python을 활용하면서 자주 썼던 모듈이나 사용법을 위키로 정리해봅니다.
 
 Using Python, I would like to summarize the modules and usages I used frequently with the wiki.
 
+---
 
 ## List function
 
