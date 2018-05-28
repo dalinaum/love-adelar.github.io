@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Py Wiki
+title: Py Module & Operations Wiki
 category: python
 tags: [python], [wiki]
 ---
 
-Python3 을 활용하면서 자주 썼던 모듈이나 사용법을 위키로 정리해봅니다.
+Python3 을 활용하면서 자주 썼던 모듈과 연산을 위키로 정리해봅니다.
 
 Using Python3, I would like to summarize the modules and usages I used frequently with the wiki.
 
