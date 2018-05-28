@@ -1,8 +1,8 @@
 ---
-layout: page
-title: Py Module & Operations Wiki
+layout: post
+title: Py Module & Operations wiki
 category: python
-tags: [python], [wiki]
+tags: [python], wiki
 ---
 
 Python3 을 활용하면서 자주 썼던 모듈과 연산을 위키로 정리해봅니다.

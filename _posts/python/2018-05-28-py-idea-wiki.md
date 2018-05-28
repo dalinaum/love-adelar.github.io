@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Py Idea Wiki
+title: Py Idea wiki
 category: python
 tags: [python], [wiki]
 ---
@@ -89,16 +89,16 @@ Using Python3, I would like to summarize the notions I learned today with the wi
   </tbody>
 </table>
 
-Notes: 
+Notes:
 1. t는 교체 할 슬라이스와 길이가 같아야 한다.
 2. 선택적 인수 i는 기본적으로 -1이므로 기본적으로 마지막 항목이 제거되어 반환한다.
 3. x에서 s가 발견되지 않으면 remove는 ValueError를 발생시킨다.
-4. `reverse ()` 메서드는 큰 시퀀스를 뒤집을 때 공간 절약을 위해 시퀀스를 수정한다. 
+4. `reverse ()` 메서드는 큰 시퀀스를 뒤집을 때 공간 절약을 위해 시퀀스를 수정한다.
 부작용으로 작동한다는 것을 사용자에게 알리기 위해 역순으로 반환하지 않는다.
 5. 슬라이싱 연산을 지원하지 않는 변경 가능한 컨테이너 (예 : dict 및 set)의 인터페이스와의 일관성을 위해 `clear ()` 및 `copy ()`가 포함된다.
 6. 버전 3.3의 새로운 기능 : `clear ()` 및 `copy ()` 메소드.
-7. n 값은 정수이거나 `__index __ ()`를 구현하는 객체. 
-n의 0과 음수 값은 시퀀스를 지 웁니다. 시퀀스의 항목은 복사되지 않는다. 
+7. n 값은 정수이거나 `__index __ ()`를 구현하는 객체.
+n의 0과 음수 값은 시퀀스를 지 웁니다. 시퀀스의 항목은 복사되지 않는다.
 공통 순서 조작에서 s * n에 대해 설명한대로 여러 번 참조된다.
 
 ### (2) String
