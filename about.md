@@ -9,7 +9,7 @@ title: About Adela
 
 ## Tech Stack
 
-* Language : Python, Java 
+* Language : Python, Java
 * Server Frame Work : Flask, Spring, Django
 * DB : SQL
 * Version Control : Git
@@ -27,10 +27,23 @@ title: About Adela
 
 ## Project
 
-* **Inventory System** | 기획 및 개발 | 2018년 02월 | https://github.com/love-adelar/InventoryManagingProgram | Java를 활용한 재고관리 시스템
-* **Django Blog** | 개발 | 2017년 01월 | https://github.com/love-adelar/my-first-blog | Djangogirls Tutorial을 활용한 CRUD 시스템 개발
+* **Inventory System**
+  * 프로젝트 소개 : Java를 활용한 재고관리 시스템
+  * 파트 : 기획 및 개발
+  * 기한 : 2018년 02월
+  * 주소 : https://github.com/love-adelar/InventoryManagingProgram
+* **Django Blog**
+  * 프로젝트 소개 : Djangogirls Tutorial을 활용한 CRUD 시스템 개발
+  * 파트 : 개발
+  * 기한 : 2017년 01월
+  * 주소 : https://github.com/love-adelar/my-first-blog
 
 ## Experience
 
-* **Hammie Hamster Inc.** | 개발 | 2017년 03월 ~ 2017년 07월 | http://hammiehamster.com | 웹 개발 (javascript)
-* **Zetabank Inc.** | 음성인식 개발 | 2018년 04월 ~ 현재 | 음성인식 개발 (python, java)
+* **Hammie Hamster Inc.**
+  * 담당업무 : 웹개발 (JavaScript)
+  * 근무기간 : 2017년 03월 ~ 2017년 07월
+  * 웹사이트 :  http://hammiehamster.com
+* **Zetabank Inc.**
+  * 담당업무 : 음성인식 개발 (Python, Java)
+  * 근무기간 : 2018년 04월 ~ 현재
